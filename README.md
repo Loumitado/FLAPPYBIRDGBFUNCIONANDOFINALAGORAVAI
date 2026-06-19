@@ -1,6 +1,5 @@
 # Flappy Bird com Inteligência Artificial
 
-## Neuroevolução com Redes Neurais e Algoritmos Genéticos
 
 > Trabalho Grau B — Inteligência Artificial | UNISINOS | 2026
 > Integrantes: Rodrigo de Moraes Lehnen | Kalleu Queirolo Hannecker
